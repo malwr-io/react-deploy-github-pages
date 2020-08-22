@@ -1,13 +1,13 @@
 
-name: Deploy React Application
+name: Deploy React Application to Github Pages
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 # By default only runs on pushes on the master
 description: Build and deploy your React website via Github Pages  
 author: joshuanoronha
 branding: 
-  color: green
-  icon: code
+  color: yellow
+  icon: arrow-up
 on:
   push:
     branches: [ master ] # You can add branches here
